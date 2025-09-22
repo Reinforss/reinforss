@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile
 
 <div>
-<p>Hey, I’m Rihanss! <br><br>I’m a hobby developer who loves working with JavaScript and Node.js to create cool stuff like Discord bots and other fun projects. I’m always looking to level up my coding skills and try out new programming languages. When I’m not coding, you’ll probably find me gaming or chilling with a cup of tea.
+<p>Hey, I’m Reinfors! <br><br>I’m a hobby developer who loves working with JavaScript and Node.js to create cool stuff like Discord bots and other fun projects. I’m always looking to level up my coding skills and try out new programming languages. When I’m not coding, you’ll probably find me gaming or chilling with a cup of tea.
 </p>
 </div>
 
@@ -115,7 +115,7 @@
 
 <div>
     <p>
-    <a href="https://github.com/Rihanss" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=Github&logoColor=white"/></a>
+    <a href="https://github.com/Reinforss" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=Github&logoColor=white"/></a>
     <a href="https://steamcommunity.com/id/rihannsme/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Website"/></a>
     <a href="https://discord.gg/k6MEUfp" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
     <a href="https://asterax.xyz/" target="_blank"><img src="https://img.shields.io/badge/website-asterax.xyz-blue?style=for-the-badge&logo=domain&logoColor=white" alt="Website"/></a>

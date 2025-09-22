@@ -19,7 +19,7 @@
         <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
     </p>
 
-![Top Languages](https://github-readme-stats-rihanss-projects.vercel.app/api/top-langs/?username=Reinfors&layout=compact)
+![Top Languages](https://github-readme-stats-rihanss-projects.vercel.app/api/top-langs/?username=Reinforss&layout=compact)
 
 ## Open Source Projects
 

@@ -50,8 +50,8 @@ I’m a hobby developer who loves working with **JavaScript** and **Node.js** to
 
 | 📚 Project | 🪪 Language | ⭐ Stars | ⚙️ Forks | ⚖️ License |
 | :--- | :---: | :---: | :---: | :---: |
-| **[Example Bot](https://github.com/Rihanss/discordbot-example-v14)** | ![NodeJS](https://img.shields.io/badge/Node.js-v20-green?style=flat-square) | ![Stars](https://img.shields.io/github/stars/Rihanss/discordbot-example-v14?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Rihanss/discordbot-example-v14?style=flat-square) | ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square) |
-| **[Holo Bot](https://github.com/Rihanss/holobot)** | ![NodeJS](https://img.shields.io/badge/Node.js-v16-green?style=flat-square) | ![Stars](https://img.shields.io/github/stars/Rihanss/holobot?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Rihanss/holobot?style=flat-square) | ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square) |
+| **[Discord Example Bot](https://github.com/Rihanss/discordbot-example-v14)** | ![NodeJS](https://img.shields.io/badge/Node.js-v20-green?style=flat-square) | ![Stars](https://img.shields.io/github/stars/Rihanss/discordbot-example-v14?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Rihanss/discordbot-example-v14?style=flat-square) | ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square) |
+| **[Discord Holo Bot](https://github.com/Rihanss/holobot)** | ![NodeJS](https://img.shields.io/badge/Node.js-v16-green?style=flat-square) | ![Stars](https://img.shields.io/github/stars/Rihanss/holobot?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Rihanss/holobot?style=flat-square) | ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square) |
 
 <br/>
 
